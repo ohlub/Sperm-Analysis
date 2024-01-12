@@ -1,0 +1,15 @@
+1. Python 라이브러리 설치 
+
+pip(conda) install opencv-python
+pip(conda) install pyqt5
+pip(conda) install tensorflow==2.11.0
+pip(conda) install pyautogui
+pip(conda) install scipy
+
+2. GUI_BASE.ui, GUI_BASE2.ui, model.h5 파일을 주피터 노트북 경로에 저장
+
+3. System.ipynb 파일을 사용자의 주피터 노트북 경로에 저장, 주피터 노트북 환경에서 실행 
+
+4. 실행하면 처음 나오게 되는 메인 화면에서 CASA 영상 5개를 업로드, 분석 시작 ( 만약 Kernel died. 오류가 발생하면 Kernel Restart 진행 )
+
+5. 분석 결과 확인
